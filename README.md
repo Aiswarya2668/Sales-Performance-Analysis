@@ -45,6 +45,9 @@ The dataset contains **order-level retail sales transactions** with the followin
 ---
 
 ## 📊 Dashboard Features
+
+<img width="1105" height="642" alt="image" src="https://github.com/user-attachments/assets/e9ae56bf-0b38-4c0f-be65-1e7ecd9e5a41" />
+
 - **Key Performance Indicators (KPIs):**
   - Total Sales  
   - Total Profit  
